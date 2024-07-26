@@ -2,6 +2,6 @@
 python -m venv venv // виртуальное окружение
 venv\Scripts\activate // активация виртуального окружения
 pip inspect  // проверка
-pip instal requests  // установка модулей
-pip freeze > requerements.txt // для переноса с текущими модулями
+pip instal requests  // установка модуля ....
+pip freeze > requerements.txt // файл для переноса с текущими модулями
 pip install -r requerements.txt // установка с модулями

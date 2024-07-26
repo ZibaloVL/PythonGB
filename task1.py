@@ -1,5 +1,5 @@
-name = 'ss'
-print('ssss')
-print(id(name))
-age = int(input('input  int'))
-print('age = ', age)
+parol = 'txt'
+res = input('enter parol')
+if res == parol:    
+    print('log in', end="\n")
+else: print('log no')
